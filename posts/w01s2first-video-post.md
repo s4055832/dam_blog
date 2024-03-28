@@ -1,5 +1,5 @@
 ---
-title: 30 seconds video
+title: w01s230 seconds video
 ---
 The 30 seconds video
 [the 30 secends video](https://youtube.com/shorts/T0zw_zHU-r4?si=JfzzINuoYlRNKvri)
