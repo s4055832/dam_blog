@@ -1,5 +1,5 @@
 ---
-title: The Result of my video
+title: 30 seconds video
 ---
 The 30 seconds video
 [the 30 secends video](https://youtube.com/shorts/T0zw_zHU-r4?si=JfzzINuoYlRNKvri)
