@@ -2,7 +2,7 @@
 2024 
 ---
 Black Squares
-![blacksquares](/w04s1/blacksquares.jpg)
+![blacksquares](/w04-07/blacksquares.jpg)
 When designing black squares, it's convenient to get a same square by pressing ALT and dragging a black square. And by pressing SHIFT, we can get squares quickly. If the black squares are over border, we can copy a background and set it on the top of other layers.
 in designing these icons, I want to use the relationship of four squares to show the different theme. For example, I use three big squares to pressure the space of the forth square to show the meaning of tension.
 
@@ -36,10 +36,10 @@ Audience: camper, hiker.
 9:App about bird migration track and conditions. Used in iphone. Context: bird, track.
 Audience: bird-lover, photograph fan.
 
-![avtivity](/w04-07/thumbnail%20sketching.jpg)
+![avtivity](/w04-07/thumbnailsketching.jpg)
 The seventh draft is better. In the draft, lines representing the wind are the main project. And two birds show the wind obciously.
 
-![45 drafts](/w04-07/icon%20draft.jpg)
+![45 drafts](/w04-07/icondraft.jpg)
 In the first set, I used elements of sunlight and umbrellas. The first one is looking up at the bottom of the umbrella which means we're under the umbrella. The second is the emphasis on sunlight, using the form of tree-ring to show the pressure of sunlight. The third one shows from the side that the sun cannot penetrate the umbrella. The fourth is to emphasize that the light shines on the surface of the umbrella. The fifth is that the light rays from the outside are directed towards the central sphere, but cannot penetrate the sphere.I think the fifth is the best.
 
 In the second set, the first was drawn from the point of view of the signal transmitter. The second is to turn the emitted rays into flat circles. The third is to highlight the location of the signal with a map. The fourth is the representation of signal emission in the form of a bar chart. The fifth is to combine the signal it emits with the clouds to show the effect of the signal on the weather.I think the forth is the best.
