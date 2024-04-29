@@ -1,6 +1,5 @@
 ---
-title: w04
-2024 
+title: w04 
 ---
 Black Squares
 ![blacksquares](/w04-07/blacksquares.jpg)

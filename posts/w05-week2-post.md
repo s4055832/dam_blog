@@ -1,6 +1,5 @@
 ---
 title: w05
-2024
 ---
 ![mindmap2](/w04-07/mindmap2.jpg)
 This is my second edition of mindmap, and I've changed the overall design concept: nine ICONS are all in one site on climate change issues. The audience is teenagers and young adults, as well as people interested in climate change. The age range is between 15 and 35.
