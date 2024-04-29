@@ -1,5 +1,5 @@
 ---
-title:w05
+title: w05
 2024
 ---
 ![mindmap2](/w04-07/mindmap2.jpg)

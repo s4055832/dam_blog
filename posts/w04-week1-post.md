@@ -1,5 +1,5 @@
 ---
-title:w04
+title: w04
 2024 
 ---
 Black Squares
