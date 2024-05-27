@@ -9,7 +9,8 @@ export interface Post {
   publishedAt: Date;
   snippet: string;
   content: string;
-  disableHtmlSanitization: boolean;
+  disableHtmlSanitization: boolean
+  allowMath: boolean;
 }
 
 // Get posts.
